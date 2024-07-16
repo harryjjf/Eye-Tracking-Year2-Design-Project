@@ -10,5 +10,12 @@ Clone this project:
 
 `git clone https://github.com/harryjjf/Eye-Tracking-DAPP2-.git`
 
-###Pip install
+### Pip install
 Install required dependencies:
+`pip install -r dependencies.txt`
+
+## Test the code
+
+
+
+##
