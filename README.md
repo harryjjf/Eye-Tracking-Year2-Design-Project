@@ -22,4 +22,5 @@ Install required dependencies:
 `python eyetracking_main.py`
 
 
-##
+## Licensing 
+This project is released under the terms of the MIT Open Source License. 
