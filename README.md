@@ -12,10 +12,14 @@ Clone this project:
 
 ### Pip install
 Install required dependencies:
+
 `pip install -r dependencies.txt`
 
 ## Test the code
 
+'eyetracking_main.py' is used to run the code. Ensure all files are located within the same folder. 
+
+`python eyetracking_main.py`
 
 
 ##
