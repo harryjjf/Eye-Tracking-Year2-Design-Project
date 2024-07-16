@@ -6,5 +6,9 @@ We added up/down tracking functionality, a time delay for movements to be correc
 **Modules required:** Dlib, OpenCV, NumPy
 
 ## Installation
-Clone this project 
+Clone this project:
 
+`git clone https://github.com/harryjjf/Eye-Tracking-DAPP2-.git`
+
+###Pip install
+Install required dependencies:
